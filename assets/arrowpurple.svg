@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="35px" viewBox="0 0 20 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Select</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tool-Bar" transform="translate(-51.000000, -202.000000)" fill="#7C1F5E">
+            <path d="M70.2730765,221.405119 L62.3157081,221.405119 C64.5805767,225.689661 66.712001,229.721507 68.9112991,233.881788 C67.4864082,234.651002 66.1723882,235.360404 64.6813126,236.165321 C62.378361,231.849095 60.0970614,227.573363 57.4759317,222.660405 C55.5693205,224.903754 53.8823013,226.888535 52.195282,228.87347 C52.0501671,228.756627 51.9050521,228.639785 51.7599371,228.522942 L51.7599371,202.809663 C57.8271253,208.903876 64.033286,215.137497 70.2730765,221.405119 L58.980682,222.3128" id="Select"></path>
+        </g>
+    </g>
+</svg>

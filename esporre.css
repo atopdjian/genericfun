@@ -1,12 +1,10 @@
 .toolbar
 {
-    color: crimson;
-    background-color: beige;
+    background-color: #EFEFEF;
     
-    width: 80px;
+    width: 100px;
     height: 100%;
-    
-    padding: 20px;
+    padding: 0px;
 }
 
 body
@@ -25,10 +23,41 @@ html
 #logo
 {
     width: 50px;
+    padding-top: 0px;
+    padding-left: 0px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
 }
 
-.yolo
+.box
 {
-    display: block;
-    margin: 0 auto;
+    width: 86px;
+    color: #EFEFEF;
+    background-color: #7C1F5E;
+    padding: 5px 7px 6px 7px;
+    text-align: center;
+    font-size: 1em;  
+    position: absolute;
+    top: 100px;
+    font-family: sans-serif;
 }
+
+#arrow
+{
+    position: absolute;
+    top: 150px;
+    width: 18px;
+    left: 41px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#arrow:hover
+{
+    fill: red;
+    
+}
+
+
